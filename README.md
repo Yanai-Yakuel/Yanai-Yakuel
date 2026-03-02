@@ -1,4 +1,4 @@
-#  About Me:
+# 💫 About Me:
 Hi, I'm Yanai<br><br>I love coding and building things that actually work. I mostly use Python but I also do robotics with Java. I enjoy solving problems, figuring out algorithms, and making code more efficient.<br><br>Some of my projects include<br><br>Small tools and fun scripts like calculators, password generators, number guessing games, and text encryption<br><br>Robotics  for competitions!, including mecanum drive robots, shooters and intake systems, autonomous routines, and dashboards for real-time telemetry<br><br>Right now I'm learning more advanced Python, better algorithms, data structures, and how to make robots smarter and more efficient. My goal is to keep building cool projects, master coding and robotics, and create useful and fun things.
 
 
@@ -17,3 +17,8 @@ Hi, I'm Yanai<br><br>I love coding and building things that actually work. I mos
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Yanai-Yakuel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Yanai-Yakuel&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
