@@ -20,4 +20,4 @@ Hi, I'm Yanai<br><br>I love coding and building things that actually work. I mos
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yanai Yakuel) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() 
