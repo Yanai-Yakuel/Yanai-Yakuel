@@ -19,3 +19,8 @@ Hi, I'm Yanai<br><br>I love coding and building things that actually work. I mos
 [![](https://visitcount.itsvg.in/api?id=Yanai-Yakuel&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() 
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
